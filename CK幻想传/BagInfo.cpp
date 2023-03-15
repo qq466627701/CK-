@@ -1,0 +1,1 @@
+#include "BagInfo.h"
